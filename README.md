@@ -29,8 +29,19 @@ An online retail store's **CEO and CMO** wanted to understand what drives revenu
 2. Focus international expansion on the **Netherlands, Ireland, Germany, France** and **Australia**.
 3. Protect top customers with a **key-account approach** (dedicated contact, loyalty offers).
 
-## Screenshots
-*Dashboard screenshots (Q1–Q4) are being added to the [images](images) folder.*
+## Dashboard screenshots
+
+**Q1 – Monthly revenue, 2011**
+![Q1 Monthly revenue 2011](images/q1_monthly_revenue_2011.png)
+
+**Q2 – Top 10 countries by revenue & quantity (excl. UK)**
+![Q2 Top 10 countries](images/q2_top10_countries.png)
+
+**Q3 – Top 10 customers by revenue**
+![Q3 Top 10 customers](images/q3_top10_customers.png)
+
+**Q4 – Product demand by country (excl. UK)**
+![Q4 Demand map](images/q4_demand_map.png)
 
 ---
 
